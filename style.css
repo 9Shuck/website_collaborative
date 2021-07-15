@@ -1,0 +1,11 @@
+.jumbotron {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 25%;
+
+}
+
+.jumbotron > button {
+    width: 50%;
+}
