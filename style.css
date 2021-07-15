@@ -6,3 +6,6 @@
 
 }
 
+.jumbotron > button {
+    width: 50%;
+}
